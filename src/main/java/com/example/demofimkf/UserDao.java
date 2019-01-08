@@ -13,7 +13,7 @@ public interface UserDao {
     void createUser(User user);
 
     /**
-     * Najde uživatele
+     * Najde uživatele qqqq
      * @param id
      * @return instance uživatele
      */
